@@ -1,0 +1,4 @@
+F:\asp\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\asp\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\asp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\asp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
